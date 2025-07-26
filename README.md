@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**GeetikaMehta/GeetikaMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Geetika Mehta
 
-Here are some ideas to get you started:
+💫 **About Me:**  
+🎓 Data enthusiast with hands-on experience in Python, SQL, and Machine Learning.  
+🚀 Passionate about building intelligent solutions that turn data into actionable insights.  
+🎯 Currently exploring React, Flask, and TensorFlow for full-stack AI applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with me: 
+[LinkedIn] https://www.linkedin.com/in/geetika-mehta-137997298/
+
+💻 **Tech Stack:**  
+Python | SQL | Machine Learning | React | Flask | TensorFlow | Pandas | NumPy | Scikit-learn | Java |   
+
+*Let’s connect and build smarter, data-driven solutions together!*
+```
+
