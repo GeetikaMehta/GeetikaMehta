@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Stars background"/>
-</p>
-
-# Hi, I’m Geetika Mehta! 👋
+# Hi, I’m Geetika Mehta!
 
 💡 **Data Enthusiast | Machine Learning Practitioner | Full-Stack AI Developer**
 
@@ -21,11 +17,13 @@
 
 ---
 
-### 🌟 Tech Stack
+### 👩‍💻 Tech Stack — Powered by Passion & Precision
 
+ 
 | Python | SQL | Machine Learning | React | Flask | TensorFlow | Pandas | NumPy |
 |--------|-----|------------------|-------|-------|------------|--------|-------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-F7931E?style=for-the-badge&logo=apachekafka&logoColor=white) | ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB) | ![SQL](https://img.shields.io/badge/-SQL-FF6F91?style=for-the-badge&logo=postgresql&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-AA4AFF?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A) | ![Flask](https://img.shields.io/badge/-Flask-00FFAA?style=for-the-badge&logo=flask&logoColor=black) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF8C42?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-FF1493?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-00BFFF?style=for-the-badge&logo=numpy&logoColor=white) |
+
 
 ---
 
