@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="![dns-dgn-9wH624ALFQA-unsplash](https://github.com/user-attachments/assets/a158d1d3-c01f-40a9-a4f4-9502f13a6eab)" width="70%" alt="Stars background"/>
-</p>
-
-# Hi, I’m Geetika Mehta! 👋
+# Hi, I’m Geetika Mehta!
 
 💡 **Data Enthusiast | Machine Learning Practitioner | Full-Stack AI Developer**
 
