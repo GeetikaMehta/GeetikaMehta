@@ -1,4 +1,4 @@
-# Hi, I’m Geetika Mehta!
+# Hi, I’m Geetika Mehta! 👋
 
 💡 **Data Enthusiast | Machine Learning Practitioner | Full-Stack AI Developer**
 
