@@ -12,7 +12,7 @@
 
 - **Data-driven problem solver:** Skilled at transforming raw data into actionable insights through statistical analysis and machine learning.  
 - **Full-stack AI developer:** Integrating backend APIs (Flask) with dynamic React frontends for seamless user experiences.  
-- **Hands-on with key tools:** Python, SQL, Pandas, NumPy, TensorFlow, and more — building, training, and deploying models efficiently.  
+- **Hands-on with key tools:** Python, SQL, Pandas, NumPy, TensorFlow, and more building, training, and deploying models efficiently.  
 - **Lifelong learner:** Always exploring new frameworks and technologies to stay ahead in the fast-evolving AI landscape.
 
 ---
