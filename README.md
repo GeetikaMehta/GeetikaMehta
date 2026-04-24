@@ -1,6 +1,6 @@
 # Hi, I’m Geetika Mehta!
 
-💡 **Data Enthusiast | Machine Learning Practitioner | Full-Stack AI Developer**
+💡 **Data Enthusiast | Machine Learning Practitioner**
 
 🎓 Currently honing my expertise in Python, SQL, and Machine Learning to unlock powerful insights from complex datasets.  
 🚀 Passionate about creating end-to-end intelligent solutions by blending data science with modern web technologies like React and Flask.  
